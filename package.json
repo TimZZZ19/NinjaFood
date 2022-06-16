@@ -1,0 +1,23 @@
+{
+  "name": "ninjafood",
+  "version": "1.0.0",
+  "description": "Project done by following NinJa's Tailwind YT Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimZZZ19/NinjaFood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimZZZ19/NinjaFood/issues"
+  },
+  "homepage": "https://github.com/TimZZZ19/NinjaFood#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.3"
+  }
+}
