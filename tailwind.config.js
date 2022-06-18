@@ -9,6 +9,11 @@ module.exports = {
       },
       fontFamily: { body: ['Nunito', 'sans-serif'] },
     },
+    // variants: {
+    //   extend: {
+    //     textColor: ['responsive', 'hover', 'focus', 'group-hover'],
+    //   },
+    // },
   },
   plugins: [],
 }
